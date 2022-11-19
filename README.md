@@ -10,7 +10,7 @@ Some other quick facts about me:
 
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alborzk) or reach out via [email](mailto:khakbaza@myumanitoba.ca) - I love meeting new people!
 
-For more information, see my [portfolio website](www.alborzk.me).
+For more information, see my [portfolio website](https://www.alborzk.me).
 
 ---
 
