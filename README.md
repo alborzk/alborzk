@@ -1,5 +1,5 @@
 # Hi, I'm Alborz!
-Thanks for checking out my GitHub page! I'm an aspiring developer skilled in Java and Web Dev, and I'm also well equipped in other languages such as Python, C, and SQL. Currently, I'm in my 4th year pursuing a BSc. in Computer Science at the University of Manitoba.
+Thanks for checking out my GitHub page! I'm a 4th year computer science student based in Winnipeg, Canada with a wide array of programming knowledge. Currently, I'm looking for co-op work for Fall 2023. Please continue reading to learn more about me!
 
 I've always looked up to the big players in tech, but I'm also incredibly fascinated by the worlds of art, music, and fashion. My goal is to bring some of the values I admire from those worlds into programming - focusing on user-oriented design that is refined and innovative, while still accessible for the average person. I am extremely passionate about my values and I love working on projects that are forward-thinking and boundary-pushing.
 
