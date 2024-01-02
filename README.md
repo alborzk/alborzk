@@ -1,12 +1,13 @@
 # Hi, I'm Alborz!
-Thanks for checking out my GitHub page! I'm a 4th year computer science student based in Winnipeg, Canada with a wide array of programming knowledge. Currently, I'm looking for co-op work for Fall 2023. Please continue reading to learn more about me!
+Thanks for checking out my GitHub page! I'm a 4th year computer science student based in Winnipeg, Canada with an array of programming knowledge, a background in Product, and an eye for design. Currently, I'm looking for co-op work for Summer 2024. Please continue reading to learn more about me!
 
-I've always looked up to the big players in tech, but I'm also incredibly fascinated by the worlds of art, music, and fashion. My goal is to bring some of the values I admire from those worlds into programming - focusing on user-oriented design that is refined and innovative, while still accessible for the average person. I am extremely passionate about my values and I love working on projects that are forward-thinking and boundary-pushing.
+I grew up looking up to the big innovators in tech, but I've also always been inspired by the creatives within music, fashion, and art. My goal is to bring some of the values I admire from those worlds into my own work - focusing on user-oriented technologies that are refined and forward-thinking. I'm super passionate about my values and I love working on projects that push boundaries and keep me on my toes.
 
 Some other quick facts about me:
-- 🏀 I love to watch and play basketball - go Raptors!
-- 🎧 I love listening to music, and just got a record collection going this past year.
-- 🍕 I can make you a homemade pizza! (and it won't be half bad either)
+- 🏀 I love to watch and play sports - especially soccer and basketball.
+- 🎧 I love listening to music, and have an ever-growing record collection. Ask me about my favorite albums!
+- 🏋️ I've been going to the gym for 3 years - it's one of my favorite outlets to destress.
+- 🍕 I can make you a homemade pizza! (and it'll even be edible!!)
 
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alborzk) or reach out via [email](mailto:khakbaza@myumanitoba.ca) - I love meeting new people!
 
